@@ -1,0 +1,2 @@
+# 17.printPartOfASCIITable
+dataTypeAndVariablesExer2
